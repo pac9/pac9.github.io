@@ -1,5 +1,5 @@
 # Background 
-Recently completed an intensive full-time 19 week professional software development [course](https://codeclan.com/courses/16-week-course/) at digital skills and coding academy Codeclan in Edinburgh, UK. Course completed on 27th July 2018 after 3 weeks of pre-course work then 16 weeks in the classroom in Edinburgh. More information on the course syllabus can be found  at https://pac9.github.io/codeclan_syllabus.md
+Recently completed an intensive [full-time 19 week professional software development course](https://codeclan.com/courses/16-week-course/) at digital skills and coding academy Codeclan in Edinburgh, UK. Course completed on 27th July 2018 after 3 weeks of pre-course work then 16 weeks in the classroom in Edinburgh. More information on the course syllabus can be found  at https://pac9.github.io/codeclan_syllabus.md
     
 
 COURSE TOPICS:
