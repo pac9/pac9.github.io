@@ -55,10 +55,10 @@ This was a group project undertaken in Week 14 which lasted for a week at the en
 The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine.  Although the brief indicated that the BBC should be considered as the user, the actual remit was less strict therefore we chose to create an educational app for use at a science festival or museum. Our vision was that our app would be shown on screens and tablets whereby the user would be drawn by visually stimulating images to explore and learn about our solar system and space through interacting with the app. 
 
 Our app is designed to:
-•	education you on the solar system, 
-•	allows you to learn how the Hubble telescope is helping scientists understand how planets and galaxies form, 
-•	be intrigued by the astronomy picture of the day, and 
-•	provides insight into the location of and views from the international space station.
+-	education you on the solar system, 
+-	allows you to learn how the Hubble telescope is helping scientists understand how planets and galaxies form, 
+-	be intrigued by the astronomy picture of the day, and 
+-	provides insight into the location of and views from the international space station.
 
 <img src="https://pac9.github.io/SolarSystemMercuryhome.png" alt="Mercury page on Solar System app">
 
@@ -67,6 +67,13 @@ Our app is designed to:
 <img src="https://pac9.github.io/viewfromiss.png" alt="View from International Space Station">
 
 <img src="https://pac9.github.io/hubblepage.png" alt="Image taken by Hubble telescope">
+
+The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. Javascript and  
+
+During the making of the project we demonstrate that:
+- we were using agile methodologies through daily stand ups, use of Trello board, regular communication on status of build
+- we could utilise solo programming, paired programming and group programming as required to the task in hand
+- branches and merging was regularly occuring on git
 
 
 
