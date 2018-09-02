@@ -19,7 +19,7 @@ The brief for the project can be found at https://pac9.github.io/sweet_shop/ wit
  
 This was a solo project built in Ruby using Sinatra and PostgresSQL to interact with the database. We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 5 for the course. 
 
-During the making of the project we had to demonstrate that:
+During the making of the project I had to demonstrate that:
 - the app had been built to fit the needs of the end user 
 - ensure the online app could read, updated, and delete items in the database
 - the principle of OOP and clean code were being practised
@@ -39,6 +39,12 @@ This was a solo project built in Java and run in the IntelliJ IDE.
 We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 9 of the course.
 
 I created two games through utilising an abstract class for the fruit machine and utilising enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
+
+During the making of the project I had to demonstrate that:
+- test driven development was being undertaken 
+- regular git commits were being made
+- SOLID principles where being adhered to where relevant (in this case the single responsibility principle, open/closed principle and Liskov substitution principle were in point)
+- consider the 4 pillars of OOP (here abstraction and encapsulation were used, polymorphism and inheritance were not)
 
 ## A full stack JavaScript web application
 
