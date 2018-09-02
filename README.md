@@ -8,9 +8,8 @@ More information on the course syllabus which I undertook can be found  at https
 I undertook 64 projects over the course of 16 weeks at Codeclan. This page is a summary of some of the key projects undertaken and skills learnt.
 
 ## Ruby Project
-
-![Stock Inventory](pac9/pac9.github.io/SweetsLikeChocolate.png)
-
+<img src ="https://pac9.github.io/SweetsLikeChocolate.png" alt="stock inventory page" height= "300">
+ 
 ## Java Project
 ## Javascript Project
 ## Final Project - freedom of choice
