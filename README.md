@@ -60,15 +60,19 @@ Our app is designed to:
 -	be intrigued by the astronomy picture of the day, and 
 -	provides insight into the location of and views from the international space station(ISS).
 
+Solar system screen example
 <img src="https://pac9.github.io/SolarSystemMercuryhome.png" alt="Mercury page on Solar System app">
 
+ISS - screenshot of ISS tracker part of page
 <img src="https://pac9.github.io/ISStracker.png" alt="Tracking the International Space Station">
 
+ISS - screenshot of live video from ISS
 <img src="https://pac9.github.io/viewfromiss.png" alt="View from International Space Station">
 
+Hubble telescope picture exampke
 <img src="https://pac9.github.io/hubblepage.png" alt="Image taken by Hubble telescope">
 
-The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. All code was written in Javascript and we used pub/sub model for transmitting the data. 
+The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. All code was written in Javascript and we used the pub/sub model for transmitting the data. 
 
 The images from the Hubble telescope, the ISS tracker, and the astronomy picture of the day are all powered by NASA APIs.  The ISS tracker is render on a map using from the open source library on [Leaflet](https://leafletjs.com/)
 
