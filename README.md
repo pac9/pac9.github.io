@@ -48,5 +48,5 @@ The brief for this project can be found at https://pac9.github.io/Planet_Nine/ w
 
 The sketches are setup to run in the Processing development environment with the code written in Java.
 
-<img src="https://pac9.github.io/randomcircles.jpg" alt="Random colour circles" height="300" width="400">   <img src="https://pac9.github.io/countdownclock.png" alt="Random colour circles" height="300" width="400">
+<img src="https://pac9.github.io/countdownclock.png" alt="Random colour circles" height="350" width="400">    <img src="https://pac9.github.io/randomcircles.jpg" alt="Random colour circles" height="350" width="400"> 
 
