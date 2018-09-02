@@ -58,7 +58,7 @@ Our app is designed to:
 -	education you on the solar system, 
 -	allows you to learn how the Hubble telescope is helping scientists understand how planets and galaxies form, 
 -	be intrigued by the astronomy picture of the day, and 
--	provides insight into the location of and views from the international space station.
+-	provides insight into the location of and views from the international space station(ISS).
 
 <img src="https://pac9.github.io/SolarSystemMercuryhome.png" alt="Mercury page on Solar System app">
 
@@ -68,15 +68,14 @@ Our app is designed to:
 
 <img src="https://pac9.github.io/hubblepage.png" alt="Image taken by Hubble telescope">
 
-The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. Javascript and  
+The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. All code was written in Javascript and we used pub/sub model for transmitting the data. 
+
+The images from the Hubble telescope, the ISS tracker, and the astronomy picture of the day are all powered by NASA APIs.  The ISS tracker is render on a map using from the open source library on [Leaflet](https://leafletjs.com/)
 
 During the making of the project we demonstrate that:
 - we were using agile methodologies through daily stand ups, use of Trello board, regular communication on status of build
-- we could utilise solo programming, paired programming and group programming as required to the task in hand
+- we could utilise solo programming, paired programming and group programming as required by the task in hand
 - branches and merging was regularly occuring on git
-
-
-
 
 ## Final Project - freedom of choice
 
