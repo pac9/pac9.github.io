@@ -29,6 +29,12 @@ This was a solo project built in Java and run in the IntelliJ IDE. Created two g
 
 We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 9 of the course.
 
-## Javascript Project
+## A full stack JavaScript web application - 
+
+This project involved vanilla Javascript, Express, MongoDB and interacting with APIs.
+
+This was a group project undertaken in Week 14 which lasted for a week at the end of which we gave a presentation to which all students and staff at Codeclan are invited.
+
+
 ## Final Project - freedom of choice
 
