@@ -5,7 +5,9 @@ More information on the course syllabus can be found  at https://pac9.github.io/
 
 # Main projects
 
-I contributed to 65 projects during the course, all of which can be found on my [github account](https://github.com/pac9). This page is a summary of week long projects undertaken and the skills learnt.
+I contributed to 65 projects during the course, all of which can be found on my [github account](https://github.com/pac9). 
+
+This page is a summary of week long projects undertaken and the skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
@@ -32,9 +34,11 @@ The brief for this project can be found at https://pac9.github.io/FruitMachineJa
 
 <img src ="https://pac9.github.io/FruitMachineHouseWins.png" alt="House always wins slot machine" height="500" width="400"> <img src ="https://pac9.github.io/FruitMachineSuckers.png" alt="Suckers slot machine" height="500" width="400">
 
-This was a solo project built in Java and run in the IntelliJ IDE. Created two games through utilising abstract class for the fruit machine and utilising Enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
+This was a solo project built in Java and run in the IntelliJ IDE.
 
 We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 9 of the course.
+
+I created two games through utilising an abstract class for the fruit machine and utilising enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
 
 ## A full stack JavaScript web application
 
