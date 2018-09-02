@@ -23,7 +23,7 @@ This project involved writing code in Java to create a fruit machine(slot machin
 
 The brief for this project can be found at https://pac9.github.io/FruitMachineJavaProject/ with the project file at https://github.com/pac9/FruitMachineJavaProject
 
-<img src ="https://pac9.github.io/FruitMachineHouseWins.png" alt="House always wins slot machine" height="500" width="430">     <img src ="https://pac9.github.io/FruitMachineSuckers.png" alt="Suckers slot machine" height="500" width="430">
+<img src ="https://pac9.github.io/FruitMachineHouseWins.png" alt="House always wins slot machine" height="500" width="428"> <img src ="https://pac9.github.io/FruitMachineSuckers.png" alt="Suckers slot machine" height="500" width="428">
 
 This was a solo project built in Java and run in the IntelliJ IDE. Created two games through utilising abstract class for the fruit machine and utilising Enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
 
