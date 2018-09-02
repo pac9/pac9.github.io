@@ -29,11 +29,17 @@ This was a solo project built in Java and run in the IntelliJ IDE. Created two g
 
 We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 9 of the course.
 
-## A full stack JavaScript web application - 
+## A full stack JavaScript web application
 
 This project involved vanilla Javascript, Express, MongoDB and interacting with APIs.
 
 This was a group project undertaken in Week 14 which lasted for a week at the end of which we gave a presentation to which all students and staff at Codeclan are invited.
+
+<img src="https://pac9.github.io/SolarSystemMercuryhome.png" alt="Mercury page on Solar System app">
+
+<img src="https://pac9.github.io/ISStracker.png" alt="Tracking the International Space Station">
+
+<img src="https://pac9.github.io/hubblepage.png" alt="Image taken by Hubble telescope" height="700">
 
 The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine
 
