@@ -39,6 +39,8 @@ This was a group project undertaken in Week 14 which lasted for a week at the en
 
 <img src="https://pac9.github.io/ISStracker.png" alt="Tracking the International Space Station">
 
+<img src="https://pac9.github.io/viewfromiss.png" alt="View from International Space Station">
+
 <img src="https://pac9.github.io/hubblepage.png" alt="Image taken by Hubble telescope">
 
 The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine
