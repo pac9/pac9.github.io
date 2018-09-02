@@ -19,7 +19,7 @@ The brief for the project can be found at https://pac9.github.io/sweet_shop/ wit
  
 This was a solo project built in Ruby using Sinatra and PostgresSQL to interact with the database. We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 5 for the course. 
 
-During the making of the project I had to demonstrate that:
+During the making of the project I demonstrated that:
 - the app had been built to fit the needs of the end user 
 - ensure the online app could read, updated, and delete items in the database
 - the principle of OOP and clean code were being practised
@@ -40,7 +40,7 @@ We were given one week to build this project with a presentation provided to the
 
 I created two games through utilising an abstract class for the fruit machine and utilising enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
 
-During the making of the project I had to demonstrate that:
+During the making of the project I demonstrated that:
 - test driven development was being undertaken 
 - regular git commits were being made
 - SOLID principles where being adhered to where relevant (in this case the single responsibility principle, open/closed principle and Liskov substitution principle were in point)
@@ -74,16 +74,25 @@ Hubble telescope picture exampke
 
 The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. All code was written in Javascript and we used the pub/sub model for transmitting the data. 
 
-The images from the Hubble telescope, the ISS tracker, and the astronomy picture of the day are all powered by NASA APIs.  The ISS tracker is render on a map using from the open source library on [Leaflet](https://leafletjs.com/)
+The images from the Hubble telescope, the ISS tracker, and the astronomy picture of the day are all powered by NASA APIs.  The ISS tracker is render on a map using from the open source library on [Leaflet.](https://leafletjs.com/)
 
-During the making of the project we demonstrate that:
+During the making of the project we demonstrated that:
 - we were using agile methodologies through daily stand ups, use of Trello board, regular communication on status of build
 - we could utilise solo programming, paired programming and group programming as required by the task in hand
 - branches and merging was regularly occuring on git
 
-## Final Project - freedom of choice
+## Final Project - open brief
 
-The sketches are setup to run in the Processing development environment with the code written in Java.
+For our final week we were permitted to do a coding project entirely of our choice. I chose go back to the reason I started to write code and that was to draw things. 
+
+I created sketches(programs) run in the Processing development environment with the code written in Java.
 
 <img src="https://pac9.github.io/countdownclock.png" alt="Random colour circles" height="350" width="400">    <img src="https://pac9.github.io/randomcircles.jpg" alt="Random colour circles" height="350" width="400"> 
 
+I wrote/adapted four sketches which showed:
+- a starfield whereby over the course of the program the message written on the screen changed (ie started as E21, then     showed "The Final Frontier", then "boldly going .." etc)
+- the fade in pixelation of an image
+- creating circles and using the framerate to give illusion of movement
+- a take on the countdown clock
+
+The aim was really just to have fun and bring together some of common algorithms used throughout the course such as arrays, loops, and conditionals.
