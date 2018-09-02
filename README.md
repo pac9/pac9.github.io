@@ -1,7 +1,7 @@
 # Background 
 I've recently completed an intensive [full-time 19 week professional software development course](https://codeclan.com/courses/16-week-course/) at the digital skills and coding academy Codeclan in Edinburgh, UK. Course ended on 27th July 2018 after 3 weeks of pre-course work then 16 weeks in the classroom in Edinburgh. My class was collectively referred to as E21. 
 
-More information on the course syllabus can be found  at https://pac9.github.io/codeclan_syllabus/
+More information on the course can be found in the [syllabus.](https://pac9.github.io/codeclan_syllabus/)
 
 # Main projects
 
@@ -85,7 +85,7 @@ During the making of the project we demonstrated that:
 
 For our final week we were permitted to do a coding project entirely of our choice. I chose go back to the reason I started to write code and that was to draw things. 
 
-I created sketches(programs) run in the Processing development environment with the code written in Java.
+I created sketches(programs) which run in the Processing development environment with the code written in Java.
 
 <img src="https://pac9.github.io/countdownclock.png" alt="Random colour circles" height="350" width="400">    <img src="https://pac9.github.io/randomcircles.jpg" alt="Random colour circles" height="350" width="400"> 
 
