@@ -5,7 +5,7 @@ More information on the course syllabus which I undertook can be found  at https
 
 # Main projects
 
-I undertook 64 projects over the course of 16 weeks at Codeclan. This page is a summary of some of the key projects undertaken and skills learnt.
+I undertook 64 projects over the course of 16 weeks at Codeclan. This page is a summary of week long projects undertaken and skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
@@ -34,6 +34,8 @@ We were given one week to build this project with a presentation provided to the
 This project involved vanilla Javascript, Express, MongoDB and interacting with APIs.
 
 This was a group project undertaken in Week 14 which lasted for a week at the end of which we gave a presentation to which all students and staff at Codeclan are invited.
+
+The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine
 
 
 ## Final Project - freedom of choice
