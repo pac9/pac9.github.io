@@ -46,3 +46,4 @@ The brief for this project can be found at https://pac9.github.io/Planet_Nine/ w
 
 ## Final Project - freedom of choice
 
+<img src="https://pac9.github.io/randomcircles.png" alt="Creative coding circles">
