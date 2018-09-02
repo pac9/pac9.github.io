@@ -5,7 +5,7 @@ More information on the course syllabus can be found  at https://pac9.github.io/
 
 # Main projects
 
-I contributed to 65 projects during the course. This page is a summary of week long projects undertaken and the skills learnt.
+I contributed to 65 projects during the course, all of which can be found on my [github account](https://github.com/pac9). This page is a summary of week long projects undertaken and the skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
