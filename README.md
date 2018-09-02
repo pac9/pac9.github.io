@@ -5,7 +5,7 @@ More information on the course syllabus which I undertook can be found  at https
 
 # Main projects
 
-I undertook 64 projects over the course of 16 weeks at Codeclan. This page is a summary of week long projects undertaken and skills learnt.
+I undertook 65 projects over the course of 16 weeks at Codeclan. This page is a summary of week long projects undertaken and skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
