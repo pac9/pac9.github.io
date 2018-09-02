@@ -52,6 +52,14 @@ This project involved vanilla Javascript, Express, MongoDB and interacting with 
 
 This was a group project undertaken in Week 14 which lasted for a week at the end of which we gave a presentation to which all students and staff at Codeclan are invited.
 
+The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine.  Although the brief indicated that the BBC should be considered as the user, the actual remit was less strict therefore we chose to create an educational app for use at a science festival or museum. Our vision was that our app would be shown on screens and tablets whereby the user would be drawn by visually stimulating images to explore and learn about our solar system and space through interacting with the app. 
+
+Our app is designed to:
+•	education you on the solar system, 
+•	allows you to learn how the Hubble telescope is helping scientists understand how planets and galaxies form, 
+•	be intrigued by the astronomy picture of the day, and 
+•	provides insight into the location of and views from the international space station.
+
 <img src="https://pac9.github.io/SolarSystemMercuryhome.png" alt="Mercury page on Solar System app">
 
 <img src="https://pac9.github.io/ISStracker.png" alt="Tracking the International Space Station">
@@ -60,7 +68,7 @@ This was a group project undertaken in Week 14 which lasted for a week at the en
 
 <img src="https://pac9.github.io/hubblepage.png" alt="Image taken by Hubble telescope">
 
-The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine
+
 
 
 ## Final Project - freedom of choice
