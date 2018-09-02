@@ -1,4 +1,4 @@
-# Codeclan 16 week professional software development course summary of syllabus
+# Codeclan professional software development course summary of syllabus
 
 COURSE TOPICS:
 - UNIX and Git
