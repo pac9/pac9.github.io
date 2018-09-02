@@ -15,7 +15,7 @@ The brief for the project can be found at https://pac9.github.io/sweet_shop/ wit
 
 <img src ="https://pac9.github.io/SweetsLikeChocolate.png" alt="stock inventory page" height= "400">
  
-This was a solo project built in Ruby using Sinatra and PostgresSQL interact with the database. We were given one week to build this project with a presentation provided to the class at the end of the week. 
+This was a solo project built in Ruby using Sinatra and PostgresSQL interact with the database. We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 5 for the course. 
 
 ## Fruit Machine(Slot Machine) - Native application
 
@@ -27,7 +27,7 @@ The brief for this project can be found at https://pac9.github.io/FruitMachineJa
 
 This was a solo project built in Java and run in the IntelliJ IDE. Created two games through utilising abstract class for the fruit machine and utilising Enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
 
-We were given one week to build this project with a presentation provided to the class at the end of the week. 
+We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 9 of the course.
 
 ## Javascript Project
 ## Final Project - freedom of choice
