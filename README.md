@@ -1,7 +1,7 @@
 # Background 
 I've recently completed an intensive [full-time 19 week professional software development course](https://codeclan.com/courses/16-week-course/) at the digital skills and coding academy Codeclan in Edinburgh, UK. Course ended on 27th July 2018 after 3 weeks of pre-course work then 16 weeks in the classroom in Edinburgh. My class was collectively referred to as E21. 
 
-More information on the course can be found in the [syllabus.](https://pac9.github.io/codeclan_syllabus/)
+More information on the course I completed can be found in the [syllabus.](https://pac9.github.io/codeclan_syllabus/)
 
 # Main projects
 
@@ -11,9 +11,9 @@ This page is a summary of week long projects undertaken and the skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
-This project involved combining Ruby, PostgreSQL, Sinatra, HTML and CSS to create a stock inventory. 
+This project involved combining Ruby, PostgreSQL, Sinatra, HTML and CSS to create a stock inventory system. 
 
-The brief for the project can be found at https://pac9.github.io/sweet_shop/ with the project file at https://github.com/pac9/sweet_shop
+The brief for the project can be found at (https://pac9.github.io/sweet_shop/) with the project file at (https://github.com/pac9/sweet_shop)
 
 <img src ="https://pac9.github.io/SweetsLikeChocolate.png" alt="stock inventory page" height= "400">
  
