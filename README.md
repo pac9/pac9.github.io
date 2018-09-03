@@ -38,7 +38,7 @@ This was a solo project built in Java and run in the IntelliJ IDE.
 
 We were given one week to build this project with a presentation provided to the class at the end of the week. This project was undertaken in Week 9 of the course.
 
-I created two games through utilising an abstract class for the fruit machine and utilising enums for the content of the wheels. A runner file was used to pull together the code and run the game.  
+I created two games through utilising an abstract class for the fruit machine and utilising enums for the content of the reels. A runner file was used to pull together the code and run the game.  
 
 During the making of the project I demonstrated that:
 - test driven development was being undertaken 
