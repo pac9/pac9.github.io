@@ -85,6 +85,8 @@ During the making of the project we demonstrated that:
 
 ## Final Project - open brief
 
+[Project file](https://github.com/pac9/creative_coding)
+
 For our final week we were permitted to do a coding project entirely of our choice. I chose go back to the reason I started to write code and that was to draw things. 
 
 I created sketches(programs) which run in the [Processing](https://processing.org/) development environment with the code written in Java.
