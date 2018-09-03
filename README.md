@@ -28,10 +28,10 @@ During the making of the project I demonstrated that:
 
 ## Fruit Machine(Slot Machine) - Native application
 
-This project involved writing code in Java to create a fruit machine(slot machine). 
+[Project github file](https://github.com/pac9/FruitMachineJavaProject) and [project brief](https://pac9.github.io/FruitMachineJavaProject/)
 
-The brief for this project can be found at https://pac9.github.io/FruitMachineJavaProject/ with the project file at https://github.com/pac9/FruitMachineJavaProject
-
+This project involved writing code in Java to create a fruit machine(slot machine).
+ 
 <img src ="https://pac9.github.io/FruitMachineHouseWins.png" alt="House always wins slot machine" height="500" width="400"> <img src ="https://pac9.github.io/FruitMachineSuckers.png" alt="Suckers slot machine" height="500" width="400">
 
 This was a solo project built in Java and run in the IntelliJ IDE.
@@ -44,21 +44,23 @@ During the making of the project I demonstrated that:
 - test driven development was being undertaken 
 - regular git commits were being made
 - SOLID principles where being adhered to where relevant (in this case the single responsibility principle, open/closed principle and Liskov substitution principle were in point)
-- consider the 4 pillars of OOP (here abstraction and encapsulation were used, polymorphism and inheritance were not)
+- consider the 4 pillars of OOP (here abstraction and encapsulation were used, polymorphism and inheritance were not used)
 
 ## A full stack JavaScript web application
 
+[Project file](https://github.com/pac9/Planet_Nine) and [project brief](https://pac9.github.io/Planet_Nine/)
+
 This project involved vanilla Javascript, Express, MongoDB and interacting with APIs.
 
-This was a group project undertaken in Week 14 which lasted for a week at the end of which we gave a presentation to which all students and staff at Codeclan are invited.
+This was a week long group project undertaken in Week 14. At the end of the week we gave a presentation to which all students and staff at Codeclan were invited.
 
-The brief for this project can be found at https://pac9.github.io/Planet_Nine/ with the project file at https://github.com/pac9/Planet_Nine.  Although the brief indicated that the BBC should be considered as the user, the actual remit was less strict therefore we chose to create an educational app for use at a science festival or museum. Our vision was that our app would be shown on screens and tablets whereby the user would be drawn by visually stimulating images to explore and learn about our solar system and space through interacting with the app. 
+Although the brief indicated that the BBC should be considered as the user, the actual remit was less strict therefore we chose to create an educational app for use at a science festival or museum. Our vision was that our app would be shown on screens and tablets whereby the user would be drawn by visually stimulating images to explore and learn about our solar system and space through interacting with the app. 
 
 Our app is designed to:
 -	education you on the solar system, 
 -	allows you to learn how the Hubble telescope is helping scientists understand how planets and galaxies form, 
--	be intrigued by the astronomy picture of the day, and 
--	provides insight into the location of and views from the international space station(ISS).
+-	be intriguing with the astronomy picture of the day, and 
+-	provides insight into the location of and views from the international space station (ISS).
 
 Solar system screen example
 <img src="https://pac9.github.io/SolarSystemMercuryhome.png" alt="Mercury page on Solar System app">
@@ -74,12 +76,12 @@ Hubble telescope picture exampke
 
 The solar system information and images are contained within a database seeds file which we created and ran using MongoDB. All code was written in Javascript and we used the pub/sub model for transmitting the data. 
 
-The images from the Hubble telescope, the ISS tracker, and the astronomy picture of the day are all powered by NASA APIs.  The ISS tracker is render on a map using from the open source library on [Leaflet.](https://leafletjs.com/)
+The images from the Hubble telescope, the ISS tracker, and the astronomy picture of the day are all powered by NASA APIs.  The ISS tracker is render on a map using an open source library on [Leaflet.](https://leafletjs.com/)
 
 During the making of the project we demonstrated that:
 - we were using agile methodologies through daily stand ups, use of Trello board, regular communication on status of build
 - we could utilise solo programming, paired programming and group programming as required by the task in hand
-- branches and merging was regularly occuring on git
+- with git we were regularly creating branches and later merging them 
 
 ## Final Project - open brief
 
