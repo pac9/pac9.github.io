@@ -11,8 +11,7 @@ This page is a summary of week long projects undertaken and the skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
-### [Project file](https://github.com/pac9/sweet_shop)    
-### [Project brief](https://pac9.github.io/sweet_shop/) 
+[Project github file](https://github.com/pac9/sweet_shop) and [project brief](https://pac9.github.io/sweet_shop/) 
 
 This project involved combining Ruby, PostgreSQL, Sinatra, HTML and CSS to create a stock inventory system. 
 
