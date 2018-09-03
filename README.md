@@ -97,4 +97,4 @@ I wrote/adapted four sketches which showed:
 - creating circles and using the framerate to give illusion of movement
 - a take on the countdown clock
 
-The aim was really just to have fun and bring together some of common algorithms used throughout the course such as arrays, loops, and conditionals.
+The aim was really just to have fun and bring together some of common data structures and algorithms used throughout the course such as arrays, loops, and conditionals.
