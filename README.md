@@ -87,13 +87,13 @@ During the making of the project we demonstrated that:
 
 For our final week we were permitted to do a coding project entirely of our choice. I chose go back to the reason I started to write code and that was to draw things. 
 
-I created sketches(programs) which run in the Processing development environment with the code written in Java.
+I created sketches(programs) which run in the [Processing](https://processing.org/) development environment with the code written in Java.
 
 <img src="https://pac9.github.io/countdownclock.png" alt="Random colour circles" height="350" width="400">    <img src="https://pac9.github.io/randomcircles.jpg" alt="Random colour circles" height="350" width="400"> 
 
 I wrote/adapted four sketches which showed:
 - a starfield whereby over the course of the program the message written on the screen changed (ie started as E21, then     showed "The Final Frontier", then "boldly going .." etc)
-- the fade in pixelation of an image
+- the fade in of the pixels of an image until the whole image was revealed 
 - creating circles and using the framerate to give illusion of movement
 - a take on the countdown clock
 
