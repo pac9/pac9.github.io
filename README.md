@@ -11,9 +11,10 @@ This page is a summary of week long projects undertaken and the skills learnt.
 
 ## Stock inventory system - CRUD Web Application
 
-This project involved combining Ruby, PostgreSQL, Sinatra, HTML and CSS to create a stock inventory system. 
+### [Project file](https://github.com/pac9/sweet_shop)    
+### [Project brief](https://pac9.github.io/sweet_shop/) 
 
-The brief for the project can be found at (https://pac9.github.io/sweet_shop/) with the project file at (https://github.com/pac9/sweet_shop)
+This project involved combining Ruby, PostgreSQL, Sinatra, HTML and CSS to create a stock inventory system. 
 
 <img src ="https://pac9.github.io/SweetsLikeChocolate.png" alt="stock inventory page" height= "400">
  
@@ -21,7 +22,7 @@ This was a solo project built in Ruby using Sinatra and PostgresSQL to interact 
 
 During the making of the project I demonstrated that:
 - the app had been built to fit the needs of the end user 
-- ensure the online app could read, updated, and delete items in the database
+- the online app could read, updated, and delete items in the database
 - the principle of OOP and clean code were being practised
 - test driven development was being undertaken 
 - regular git commits were being made
