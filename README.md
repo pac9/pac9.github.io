@@ -21,7 +21,7 @@ This was a solo project built in Ruby using Sinatra and PostgresSQL to interact 
 
 During the making of the project I demonstrated that:
 - the app had been built to fit the needs of the end user 
-- the online app could read, updated, and delete items in the database
+- the online app could create, read, updated, and delete items in the database
 - the principle of OOP and clean code were being practised
 - test driven development was being undertaken 
 - regular git commits were being made
