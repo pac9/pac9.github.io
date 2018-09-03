@@ -100,3 +100,5 @@ I wrote/adapted four sketches which showed:
 - a take on the countdown clock
 
 The aim was really just to have fun and bring together some of common data structures and algorithms used throughout the course such as arrays, loops, and conditionals.
+
+At the end of the week a brief presentation was provided to the class before running the four sketches three of which had background music to add to the effect of the drawings. 
